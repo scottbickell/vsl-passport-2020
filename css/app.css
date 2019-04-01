@@ -134,6 +134,12 @@ p.text-center {
 p.text-right {
   text-align: right; }
 
+img.float-center {
+  margin: 0 auto;
+  Margin: 0 auto;
+  float: none;
+  text-align: center; }
+
 table.float-center {
   margin: 0 auto;
   Margin: 0 auto;
@@ -309,6 +315,9 @@ td {
   -moz-hyphens: none;
   -webkit-hyphens: none;
   -ms-hyphens: none; }
+
+li {
+  margin-bottom: 5px; }
 
 a, a:visited, a:hover {
   text-decoration: underline;
